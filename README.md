@@ -1,22 +1,22 @@
 <h1 align="center">
-  <img src="https://github.com/Dreamacro/clash/raw/master/docs/logo.png" alt="Clash" width="200">
+  <img src="https://github.com/SuzuhaOtoha/clash/raw/master/docs/logo.png" alt="Clash" width="200">
   <br>Clash<br>
 </h1>
 
 <h4 align="center">A rule-based tunnel in Go.</h4>
 
 <p align="center">
-  <a href="https://github.com/Dreamacro/clash/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/Dreamacro/clash/release.yml?branch=master&style=flat-square" alt="Github Actions">
+  <a href="https://github.com/SuzuhaOtoha/clash/actions">
+    <img src="https://img.shields.io/github/actions/workflow/status/SuzuhaOtoha/clash/release.yml?branch=master&style=flat-square" alt="Github Actions">
   </a>
-  <a href="https://goreportcard.com/report/github.com/Dreamacro/clash">
-    <img src="https://goreportcard.com/badge/github.com/Dreamacro/clash?style=flat-square">
+  <a href="https://goreportcard.com/report/github.com/SuzuhaOtoha/clash">
+    <img src="https://goreportcard.com/badge/github.com/SuzuhaOtoha/clash?style=flat-square">
   </a>
-  <img src="https://img.shields.io/github/go-mod/go-version/Dreamacro/clash?style=flat-square">
-  <a href="https://github.com/Dreamacro/clash/releases">
-    <img src="https://img.shields.io/github/release/Dreamacro/clash/all.svg?style=flat-square">
+  <img src="https://img.shields.io/github/go-mod/go-version/SuzuhaOtoha/clash?style=flat-square">
+  <a href="https://github.com/SuzuhaOtoha/clash/releases">
+    <img src="https://img.shields.io/github/release/SuzuhaOtoha/clash/all.svg?style=flat-square">
   </a>
-  <a href="https://github.com/Dreamacro/clash/releases/tag/premium">
+  <a href="https://github.com/SuzuhaOtoha/clash/releases/tag/premium">
     <img src="https://img.shields.io/badge/release-Premium-00b4f0?style=flat-square">
   </a>
 </p>
@@ -34,11 +34,11 @@ This is a general overview of the features that comes with Clash.
 - Remote Providers: load remote proxy lists dynamically
 - RESTful API: update configuration in-place via a comprehensive API
 
-*Some of the features may only be available in the [Premium core](https://dreamacro.github.io/clash/premium/introduction.html).*
+*Some of the features may only be available in the [Premium core](https://SuzuhaOtoha.github.io/clash/premium/introduction.html).*
 
 ## Documentation
 
-You can find the latest documentation at [https://dreamacro.github.io/clash/](https://dreamacro.github.io/clash/).
+You can find the latest documentation at [https://SuzuhaOtoha.github.io/clash/](https://SuzuhaOtoha.github.io/clash/).
 
 ## Credits
 
@@ -50,4 +50,4 @@ You can find the latest documentation at [https://dreamacro.github.io/clash/](ht
 
 This software is released under the GPL-3.0 license.
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FDreamacro%2Fclash.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FDreamacro%2Fclash?ref=badge_large)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSuzuhaOtoha%2Fclash.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FSuzuhaOtoha%2Fclash?ref=badge_large)

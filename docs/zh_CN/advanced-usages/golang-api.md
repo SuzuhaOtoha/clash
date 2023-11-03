@@ -18,9 +18,9 @@ import (
 	"io"
 	"net"
 
-	"github.com/Dreamacro/clash/adapter/outbound"
-	"github.com/Dreamacro/clash/constant"
-	"github.com/Dreamacro/clash/listener/socks"
+	"github.com/SuzuhaOtoha/clash/adapter/outbound"
+	"github.com/SuzuhaOtoha/clash/constant"
+	"github.com/SuzuhaOtoha/clash/listener/socks"
 )
 
 func main() {
