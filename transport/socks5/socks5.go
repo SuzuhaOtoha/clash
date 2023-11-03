@@ -11,7 +11,7 @@ import (
 
 	"github.com/SuzuhaOtoha/clash/component/auth"
 
-	"github.com/SuzuhaOtoha/protobytes"
+	"github.com/Dreamacro/protobytes"
 )
 
 // Error represents a SOCKS error

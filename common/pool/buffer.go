@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"sync"
 
-	"github.com/SuzuhaOtoha/protobytes"
+	"github.com/Dreamacro/protobytes"
 )
 
 var (

@@ -8,7 +8,7 @@ import (
 
 	"github.com/SuzuhaOtoha/clash/tunnel/statistic"
 
-	"github.com/SuzuhaOtoha/protobytes"
+	"github.com/Dreamacro/protobytes"
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/render"
 	"github.com/gorilla/websocket"
