@@ -16,7 +16,7 @@ import (
 	"github.com/SuzuhaOtoha/clash/transport/socks5"
 	"github.com/SuzuhaOtoha/clash/transport/vmess"
 
-	"github.com/Dreamacro/protobytes"
+	"github.com/SuzuhaOtoha/protobytes"
 )
 
 const (

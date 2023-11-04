@@ -3,7 +3,7 @@ module github.com/SuzuhaOtoha/clash
 go 1.21
 
 require (
-	github.com/Dreamacro/protobytes v0.0.0-20230617041236-6500a9f4f158
+	//github.com/SuzuhaOtoha/protobytes v0.0.0-20230617041236-6500a9f4f158
 	github.com/dlclark/regexp2 v1.10.0
 	github.com/go-chi/chi/v5 v5.0.10
 	github.com/go-chi/cors v1.2.1

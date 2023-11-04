@@ -9,7 +9,7 @@ import (
 
 	"github.com/SuzuhaOtoha/clash/common/pool"
 
-	"github.com/Dreamacro/protobytes"
+	"github.com/SuzuhaOtoha/protobytes"
 )
 
 const (

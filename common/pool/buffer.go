@@ -2,9 +2,8 @@ package pool
 
 import (
 	"bytes"
+	"github.com/SuzuhaOtoha/protobytes"
 	"sync"
-
-	"github.com/Dreamacro/protobytes"
 )
 
 var (
