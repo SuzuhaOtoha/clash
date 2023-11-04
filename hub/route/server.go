@@ -4,6 +4,7 @@ import (
 	"bytes"
 	"crypto/subtle"
 	"encoding/json"
+	"github.com/go-chi/chi/v5"
 	"net"
 	"net/http"
 	"strings"
@@ -14,7 +15,7 @@ import (
 	"github.com/SuzuhaOtoha/clash/log"
 	"github.com/SuzuhaOtoha/clash/tunnel/statistic"
 
-	"github.com/SuzuhaOtoha/protobytes"
+	"github.com/SuzuhaOtoha/clash/protobytes"
 	"github.com/go-chi/cors"
 	"github.com/go-chi/render"
 	"github.com/gorilla/websocket"

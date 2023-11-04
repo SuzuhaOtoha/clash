@@ -2,7 +2,7 @@ package pool
 
 import (
 	"bytes"
-	"github.com/SuzuhaOtoha/protobytes"
+	"github.com/SuzuhaOtoha/clash/protobytes"
 	"sync"
 )
 

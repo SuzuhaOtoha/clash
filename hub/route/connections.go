@@ -2,13 +2,14 @@ package route
 
 import (
 	"encoding/json"
+	"github.com/go-chi/chi/v5"
 	"net/http"
 	"strconv"
 	"time"
 
 	"github.com/SuzuhaOtoha/clash/tunnel/statistic"
 
-	"github.com/SuzuhaOtoha/protobytes"
+	"github.com/SuzuhaOtoha/clash/protobytes"
 	"github.com/go-chi/render"
 	"github.com/gorilla/websocket"
 )

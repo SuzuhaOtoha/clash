@@ -9,7 +9,7 @@ import (
 
 	"github.com/SuzuhaOtoha/clash/component/auth"
 
-	"github.com/SuzuhaOtoha/protobytes"
+	"github.com/SuzuhaOtoha/clash/protobytes"
 )
 
 const Version = 0x04
